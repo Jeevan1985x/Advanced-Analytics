@@ -1,0 +1,26 @@
+You are an analyst at a large Australian bank. Your insightful analysis on why customers are leaving has caught the attention of the senior management team. Now, they've launched a project to actively target and retain customers who seem likely to leave. Your task is to predict which customers are most at risk of churning using the same data set that helped you understand why customers were leaving.
+
+Use the models to predict customer churn and compare their performance to each other.
+Evaluate the performance of your models using ROC/AUC, precision and recall, and visualise these metrics for easier interpretation.
+Check for signs of over- or underfitting and data leakage.
+Part 2
+
+Now it’s time to improve your models.
+
+Apply hyperparameter tuning to optimise the parameters of your models.
+Experiment with feature engineering techniques to create new features from the existing data.
+Consider if data quality enhancements or sampling techniques could help improve your model's performance.
+Part 3
+
+Focus on maintaining the quality of your model.
+
+Outline an approach for monitoring your model's performance over time and detect any drift in the underlying data. Also, start thinking about how to communicate your findings.
+Create visualisations that clearly and effectively communicate your model's performance and the key factors contributing to customer churn. Save these to your Python Notebook and think about the visualisations you will use in your slide deck.
+Part 4
+
+Finally, refine your visualisations and prepare a presentation of your findings for the bank's management team.
+
+Use effective storytelling techniques to explain the problem (this should be a part of your overview), your approach and your findings.
+Consider the ethical implications of your work.
+Discuss any potential biases in your model, how you can address them and any potential data privacy risks.
+Add a conclusion summarising the key learnings from your work.
