@@ -1,0 +1,13 @@
+#The following code uses Booleans to test the logical conditions of an if-else statement. Change the values of is_raining and is_cold from True to False, one at a time, and run the code each time to generate different outputs.
+
+is_raining = True
+is_cold = True
+
+if is_raining and is_cold:
+    print("Bring an umbrella and a jacket!")
+elif is_raining and not is_cold:
+    print("Bring an umbrella!")
+elif is_cold and not is_raining:
+    print("Bring a jacket!")
+else:
+    print("Enjoy the sunshine!")
