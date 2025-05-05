@@ -1,0 +1,22 @@
+You are an analyst at a large Australian bank. The bank is experiencing a high rate of customer churn and wants to understand the key factors contributing to this problem. Your task is to produce a report that analyses the historical data set of customer information, Customer-Churn-Records.csv and identifies patterns in the data that would help the bank address the issue.
+
+Calculate basic statistical measures such as mean, median, mode and percentiles for each attribute.
+Recognise common distributions in the data, such as Gaussian, binomial, Poisson, etc.
+Record all statistical measures and distributions in your Notebook.
+Plan what visualisations you will include in your slide deck and describe how you will explore and visualise the data.
+Part 3
+
+ Generating relevant charts to visualise the distributions of different attributes will be your starting point for this part.
+
+Generate histograms, box plots and other relevant charts to visualise data distributions
+Generate a correlation matrix to understand the relationships between different attributes.
+Identify and address any data quality issues in the data set.
+Select a random sample from the data set and apply bootstrapping techniques.
+Record all your findings in your slide deck.
+Part 4
+
+For this final part, formulate hypotheses related to customer churn that aligns with the project’s overall business objectives. For example, ‘customers with a lower balance are more likely to churn.’
+
+Apply statistical significance tests to evaluate these hypotheses, interpret the results of your statistical tests and draw valid conclusions. This will help you gain an understanding of the principles of experimental design.
+Create a plan for a controlled experiment to test one of your hypotheses. Include the experiment design in your PowerPoint report and your Notebook. Specify the control group, treatment group, duration and relevant metrics.
+Write a conclusion for your report and include it in the PowerPoint slide deck.
